@@ -1,0 +1,3 @@
+[submodule "LoadTestClient"]
+	path = LoadTestClient
+	url = https://github.com/DavorPavits/Load-Test-Client.git
