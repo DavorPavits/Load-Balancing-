@@ -1,0 +1,41 @@
+# Build results
+bin/
+obj/
+out/
+publish/
+
+# Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# User secrets & configs
+secrets.json
+appsettings.Development.json
+
+# Docker
+**/Dockerfile.*
+docker-compose.override.yml
+*.pid
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
